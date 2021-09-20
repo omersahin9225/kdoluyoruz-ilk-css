@@ -1,0 +1,43 @@
+.body{
+    width: 1200px;
+    background-color: skyblue;
+    margin: auto;
+    padding: 20px
+
+}
+
+.content{
+    width: 800px;
+    font-size: large ;
+    margin-left: auto;
+    margin-right: 15px;
+    
+    
+}
+.left-bar{
+    width: 200px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    float: left ;
+    margin: auto;
+    padding: 50px;
+    background-color: white;
+}
+
+h1{
+  font-size: 35px;
+}
+
+.baslangıc{
+    width: 200px;
+}
+
+.iletisim{
+    padding: 30px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    margin-bottom: 5%;
+}
